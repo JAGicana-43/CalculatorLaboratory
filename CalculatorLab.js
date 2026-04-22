@@ -16,3 +16,5 @@ function calculateQuotient(num1, num2) {
 function calculateSquare(num) {
   return Math.pow(num, 2);
 }
+console.log(calculateSquare(2));
+console.log(calculateSquare(9));
